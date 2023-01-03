@@ -2,5 +2,5 @@
 
 void main()
 {
-   printf("asdfghj\n");
+   printf("123\n");
 }
